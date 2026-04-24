@@ -27,9 +27,11 @@ Build a recruiter‑friendly portfolio artifact highlighting analytical depth.
 ## 📈 Visuals
 ### 1️⃣ Skill Frequency in Top Data‑Analyst Roles
 ![Top Skills in High‑Paying Data Analyst Roles](project_sql\assets\top_skills_in_high_paying_data_analysis_roles.png)
+*Bar graph visualizing top skills in high paying data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 2️⃣ Salary Trends by Technical Domain
 ![Top Paying Skills for Data Analysts](project_sql\assets\top_paying_skills_for_data_analysis.png)
+*Bar graph visualizing the top paying skills for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ## 🛠️ Technologies Used
 **SQL (PostgreSQL)** — querying and analysis
